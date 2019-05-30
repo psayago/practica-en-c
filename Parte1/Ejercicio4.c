@@ -14,7 +14,7 @@ void main(){
 
     printf("\n");
     if (a==0){
-        printf("ES UN POLINOMIO DE GRADO 2");
+        printf("NO ES UN POLINOMIO DE GRADO 2");
     }else if ( (b*b-4*a*c)<0 ){
                printf("RAICES IMAGINARIAS \n");
           }else {
